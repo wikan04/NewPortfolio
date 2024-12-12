@@ -3,7 +3,7 @@ const data = [
     id: 1,
     image: "/work/caliana.png",
     company: "Caliana Indonesia",
-    role: "Frontend Web Developer",
+    role: "Frontend Developer",
     type: "Hybrid",
     date: "01/2024 - 09/2024",
     skills: [
@@ -16,7 +16,7 @@ const data = [
   {
     id: 2,
     image: "/work/pddikti.png",
-    role: "Frontend Web Developer",
+    role: "Frontend Developer",
     company: "Ditjen Diktiristek",
     type: "On-Site",
     date: "10/2022 - 01/2024",
