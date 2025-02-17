@@ -9,7 +9,7 @@ const data = [
     id: 2,
     name: "linkedin",
     label: "linkedin",
-    link: "http://linkedin.com/wikan-dewanto-martonagoro-251511200",
+    link: "https://www.linkedin.com/in/wikandewantomartonagoro/",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const data = [
     id: 5,
     name: "cv",
     label: "download cv",
-    link: "/files/Wikan_Dewanto_Martonagoro_Newest Resume.pdf",
+    link: "/files/Wikan Newest Resume.pdf",
   },
 ];
 export default data;
