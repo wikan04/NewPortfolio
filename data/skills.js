@@ -11,9 +11,7 @@ const data = [
   { id: 11, name: "react native", image: "/skills/react-native.png" },
   { id: 12, name: "redux", image: "/skills/redux.png" },
   { id: 13, name: "Next JS", image: "/skills/next-js.png" },
-  { id: 14, name: "styled components", image: "/skills/styled.png" },
   { id: 16, name: "vue", image: "/skills/vuejs.png" },
-  { id: 24, name: "PHP", image: "/skills/php.png" },
   { id: 25, name: "MySQL", image: "/skills/mysql.png" },
   { id: 35, name: "GitHub", image: "/skills/git.png" },
 ];
